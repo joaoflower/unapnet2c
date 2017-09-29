@@ -1,0 +1,388 @@
+body {
+	font-family: Arial;
+	font-size: 11px;
+	margin: 0px;
+	padding: 0px;
+	scrollbar-face-color: #9BAE5A;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-3dlight-color: #CDE18A;
+	scrollbar-darkshadow-color: #000000;
+	scrollbar-shadow-color: #9BAE5A;
+	scrollbar-arrow-color: #CDE18A;
+	scrollbar-track-color: #CDE18A;
+	background-color: #F1F5DC;
+}
+FORM {
+	font-family: Arial;
+	font-size: 11px;
+	padding: 0px;
+	margin: 0px;
+}
+FORM#fBoton {
+	font-family: Arial;
+	font-size: 11px;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+}
+.headerow {
+	z-index: 1;
+	width: 770px;
+}
+.headercol {
+	float: left;
+}
+.headermsn {
+	float: left;
+	height: 18px;
+	width: 487px;
+	background-color: #CEE38C;
+}
+div#menu1 {
+	float: left;
+	width: 130px;
+	z-index: 1;
+}
+div#body1 {
+	width: 634px;
+	z-index: 1;
+	border: 1px solid #9BAE5A;
+	background-color: #FFFFFF;
+	float: left;
+	padding: 2px;
+	text-align:center
+}
+div#body2 {
+	z-index: 1;
+	border: 1px solid #9BAE5A;
+	background-color: #FFFFFF;
+	padding: 2px;
+	text-align:center
+}
+textarea {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	border: 1px outset;
+}
+select {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	border: 1px outset;
+}
+.texto {
+	font-family: Arial;
+	font-size: 11px;
+	border: 1px outset;
+}
+.textnotaap {
+	font-family: Arial;
+	font-size: 12px;
+	border: 1px outset;
+	font-weight: bold;
+	color: #0000FF;
+	height: 14px;
+	padding: 0px;
+	margin: 0px;
+}
+.textnotade {
+	font-family: Arial;
+	font-size: 12px;
+	border: 1px outset;
+	font-weight: bold;
+	color: #FF0000;
+	height: 14px;
+	padding: 0px;
+	margin: 0px;
+}
+textarea {
+	font-family: Arial;
+	font-size: 11px;
+	border: 1px outset;
+}
+.textologin {
+	font-family: Arial;
+	font-size: 11px;
+	border: 1px outset;
+	text-transform: lowercase;
+}
+.check {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+}
+.radio {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+}
+.boton {
+	font-family: Arial;
+	font-size: 12px;
+	color: #FFFFFF;
+	border: 1px outset;
+	background-color: #9BAE5A;
+}
+.wordn {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+}
+.wordb {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #282D15;
+}
+.wordi {
+	font-family: Arial;
+	font-size: 12px;
+	color: #FF0000;
+}
+.tabled {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+}
+
+.tabled TH{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #9BAE5A;
+}
+.tabled TR{
+	font-family: Arial;
+	font-size: 11px;
+}
+.celpar {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	background-color: #F1F5DC;
+}
+.celinpar {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	background-color: #FFFFFF;
+}
+.celselect {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	background-color: #F3FD80;
+}
+.celover {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	background-color: #C4FDB5;
+}
+.wordcen {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: center;
+}
+.wordcenb {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: center;
+	font-weight: bold;
+}
+.wordjus {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: justify;
+}
+.wordder {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: right;
+}
+.wordderb {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: right;
+	font-weight: bold;
+}
+.wordizq {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: left;
+}
+.wordizqb {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: left;
+	font-weight: bold;
+}
+.ventana1 {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+}
+.word12b {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #282D15;
+}
+div#bodylogin {
+	width: 300px;
+	border: 2px solid #9BAE5A;
+	height: 180px;
+}
+.collogin {
+	float: left;
+	width: 300px;
+}
+div#bodyselectcar {
+	width: 350px;
+	border: 2px solid #9BAE5A;
+	height: 230px;
+}
+A {
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	color: #282D15;
+	font-weight: bold;
+}
+A:hover{
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	color: #F1F5DC;
+	font-weight: bold;
+	background-color: #9BAE5A;
+}
+A IMG {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+
+.enlace1 {
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	color: #282D15;
+	font-weight: bold;
+}
+.enlace1:hover{
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	color: #F1F5DC;
+	font-weight: bold;
+	background-color: #9BAE5A;
+}
+.enlaceb {
+	text-decoration: none;
+	background:none;
+}
+.enlaceb:hover{
+	text-decoration: none;
+	background:none;
+}
+
+.linkmenu {
+	COLOR: #000000;
+	FONT-FAMILY: Arial;
+	FONT-SIZE: 11px;
+	text-decoration:none;
+	font-weight: normal;
+}
+.linkmenu:hover{
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Arial;
+	FONT-SIZE: 11px;
+	text-decoration:none;
+	font-weight: normal;
+	background-color: #9BAE5A;
+}
+
+.notapro {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #0000FF;
+}
+.notades {
+
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.textonota {
+	font-family: Arial;
+	font-size: 12px;
+	border: 1px outset;
+	text-align: right;
+}
+
+#dresultado{
+	text-align:center;
+}
+#ddatos{
+	text-align:center;
+}
+#dfamilia{
+	text-align:center;
+}
+
+.tdcampo {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: left;
+	font-weight: bold;
+	border: 1px solid #BDD37B;
+	background-color: #FFFFFF;
+}
+.tdcampocenter {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align:center;
+	font-weight: bold;
+	border: 1px solid #BDD37B;
+	background-color: #FFFFFF;
+}
+.dboton{
+	font-family: Arial;
+	font-size: 11px;
+	background-image: url(../images/boton.png);
+	background-position: center center;
+	height: 24px;
+	width: 100px;
+	float: left;
+	color: #FFFFFF;
+}
+
+.linkboton {
+	text-decoration: none;
+}
+.linkboton:hover{
+	text-decoration: none;
+	border: 1px solid #000000;
+}
+.linkboton IMG {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
