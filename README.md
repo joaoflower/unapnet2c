@@ -1,3 +1,2 @@
-# unapnet2
-c
-Sistema de matrículas para Coordinadores Académicos via Web version 1.0 of Juan Flores-Moroco @ajaflorez
+# unapnet2c
+Sistema de matrÃ­culas para Coordinadores AcadÃ©micos via Web version 1.0 of Juan Flores-Moroco @ajaflorez
